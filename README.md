@@ -1,8 +1,8 @@
 # 狗狗图像识别项目
 [//]: # (Image References)
 
-[image1]: ./images/dog.png "需要识别的狗狗图像1"
-[image2]: ./images/dog2.png "需要识别的狗狗图像2"
+[需要识别的狗狗图像]
+![需要识别的狗狗图像2](images/dog2.png)
 
 
 ## 项目概述
