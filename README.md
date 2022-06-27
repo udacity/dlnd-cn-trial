@@ -47,3 +47,8 @@ __除非有要求，否则不要修改任何已经包含的代码。__
 - 将你的 notebook 导出为 HTML 或 PDF 格式，并以 `report.html` 或是 `report.pdf` 命名
 
 此外，你也可以通过 GitHub 连接提交项目。
+
+ # Archival Note 
+ This repository is deprecated; therefore, we are going to archive it. However, learners will be able to fork it to their personal Github account but cannot submit PRs to this repository. If you have any issues or suggestions to make, feel free to: 
+- Utilize the https://knowledge.udacity.com/ forum to seek help on content-specific issues. 
+- Submit a support ticket along with the link to your forked repository if (learners are) blocked for other reasons. Here are the links for the [retail consumers](https://udacity.zendesk.com/hc/en-us/requests/new) and [enterprise learners](https://udacityenterprise.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000279131).
